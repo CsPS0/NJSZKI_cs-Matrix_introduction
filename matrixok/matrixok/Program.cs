@@ -275,8 +275,6 @@ for (int i = 0; i < n; i++)
 }
 #endregion
 
-Pause();
-
 void Pause()
 {
     Console.ForegroundColor = ConsoleColor.Green;
